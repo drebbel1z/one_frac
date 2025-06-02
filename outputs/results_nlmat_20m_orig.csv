@@ -1,0 +1,3 @@
+time,a0_wall_time,a1_dt,energy_prod,fluid_report,inject_T,injection_rate_kg_s,int_pdiff,log_inverse_error,mass_flux_src_stage_1,p_in_1,p_out_z_496.4,p_well_58_bottom,param_biot_coeff,param_frac_aperature,param_frac_roughness,param_matrix_perm,param_matrix_poro,t_in_1,t_out_z_496.4,t_well_58_bottom
+-1000,0,0,0,0,323.15,0,0,0,0,0,0,0,0.47,0.0002,0.012,1e-16,0.0002,0,0,0
+-900,8.249702208,100,0,0,323.15,0,0,-39.437013243109,0,-0.75251659045119,1096.649350952,536.78248450546,0.47,0.0002,0.012,1e-16,0.0002,1.0364997867353e-07,1.3637724461574e-05,3.4376831773207e-08
